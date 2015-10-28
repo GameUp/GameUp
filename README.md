@@ -1,2 +1,2 @@
 # GameUp
-Repository that hosts our github organization page.
+Repository that hosts our github organization page
